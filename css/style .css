@@ -319,12 +319,18 @@ box-shadow: 2px 2px 2px 2px white;
         padding: 10px 10px 10px ;
     }
 
-  .contenido{
+  .contenedor-texto {
   text-align: justify;
 
 
 
-
+ .contenedor{
+       
+        width:190%;
+        margin: 20px auto;
+        
+        
+    }
   
     
  }
