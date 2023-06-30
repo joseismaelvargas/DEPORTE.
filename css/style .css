@@ -213,7 +213,7 @@ box-shadow: 2px 2px 2px 2px white;
     
    
    }
-.footer h1{
+.footer-titulo{
     color: white;
     font-weight: bold;
     font-size: 3rem;
@@ -342,6 +342,9 @@ box-shadow: 2px 2px 2px 2px white;
  .carousel-texto{
     font-size: 25px;
  }
+.footer-titulo{
+     font-size: 80px;
+}
  
 }
 
