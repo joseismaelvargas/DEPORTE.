@@ -259,12 +259,12 @@ box-shadow: 2px 2px 2px 2px white;
 @media screen and (max-width:500px){
     .footer{
         width: 800px;
-        max-height: 400px;
+        height: 800px;
     }
     
     .imagen-noticia{
         width: 800px;
-        height: 400px;
+        height: 600px;
     }
 
  
